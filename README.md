@@ -1,7 +1,7 @@
-TASK 1: TITANIC SURVIVAL PREDICTION
-Author: Sharjeel
-Domain: Data Science
-Batch: DECEMBER BATCH A92
+### TASK 1: TITANIC SURVIVAL PREDICTION
+### Author: Sharjeel
+### Domain: Data Science
+### Batch: DECEMBER BATCH A92
 
 Problem Statement
 The Titanic tragedy of 1912 saw over 1,500 lives lost, with survival influenced by factors like age, gender, and passenger class. This project aims to build a predictive model to determine whether a passenger survived based on their details, such as age, gender, fare, and class. By analyzing these factors, we seek to uncover survival patterns and develop an accurate prediction system while exploring key data science techniques.
