@@ -66,5 +66,5 @@ The columns are resembling practical world features. Data contains 284807 rows a
 
 ---------------------------------------------------------------------------------
 
-Author: Sharjeel
-LinkedIn: www.linkedin.com/in/sharjilshaikh
+### Author: Sharjeel
+### LinkedIn: www.linkedin.com/in/sharjilshaikh
